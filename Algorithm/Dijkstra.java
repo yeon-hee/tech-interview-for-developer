@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.PriorityQueue;
 import java.util.StringTokenizer;
 
-public class 최소비용구하기 {
+public class  {
 	static class Pair implements Comparable<Pair>{
 		int x; int cost;
 		public Pair(int x, int cost) {
