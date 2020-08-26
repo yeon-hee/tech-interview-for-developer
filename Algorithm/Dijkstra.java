@@ -66,7 +66,7 @@ public class  {
 				int nx = temp.x;
 				if(dist[nx] > dist[x] + temp.cost) {
 					dist[nx] = dist[x] + temp.cost;
-					queue.offer(new Pair(nx,temp.cost));
+					queue.offer(new Pair(nx,dist[nx]));
 				}
 			}
 		}
