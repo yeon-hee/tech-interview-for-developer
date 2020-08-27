@@ -3,7 +3,7 @@
 ## 📌 Algorithm
 📖 Contents
 
-- 다익스트라
+- [Dijkstra]
 - [Kruskal](#Kruskal-MST-알고리즘)
 
 #
