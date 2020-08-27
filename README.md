@@ -1,5 +1,3 @@
-# tech-interview-for-developer  
-
 ## 📌 Algorithm
 📖 Contents
 
