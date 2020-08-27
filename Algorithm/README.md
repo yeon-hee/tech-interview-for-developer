@@ -1,7 +1,7 @@
 ## 📌 Algorithm
 📖 Contents
 
-- [Dijkstra] (#Kruskal-MST-알고리즘)
+- [Dijkstra](#Kruskal-MST-알고리즘)
 - [Kruskal](#Kruskal-MST-알고리즘)
 
 #
