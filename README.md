@@ -11,9 +11,7 @@
 - [Kruskal](#Kruskal-MST-알고리즘)
 
 #
-<br/>
-<br/>
- 
+<br/> 
 ### Kruskal MST 알고리즘
 
 #### Kruskal MST 알고리즘이란
