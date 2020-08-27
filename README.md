@@ -8,7 +8,7 @@
 📖 Contents
 
 - 다익스트라
-- [Kruskal](#Kruskal-MST)
+- [Kruskal](#Kruskal-MST-)
 
 
 ### Kruskal MST 알고리즘
