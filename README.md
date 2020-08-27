@@ -1,6 +1,6 @@
 # tech-interview-for-developer  
 
-### 📌 Algorithm
+## 📌 Algorithm
 📖 Contents
 
 - 다익스트라
