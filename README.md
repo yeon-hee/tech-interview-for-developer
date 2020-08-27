@@ -10,6 +10,8 @@
 - 다익스트라
 - [Kruskal](#Kruskal-MST-알고리즘)
 
+***
+
 
 ### Kruskal MST 알고리즘
 
