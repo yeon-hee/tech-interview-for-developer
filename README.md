@@ -5,4 +5,4 @@
 
 📖 Contents
 
-1. Algorithm
+1. [Algorithm](Algorithm/README.md)
