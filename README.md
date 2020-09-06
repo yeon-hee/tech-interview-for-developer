@@ -6,4 +6,4 @@
 📖 Contents
 
 - [Algorithm](Algorithm)
-- [Network](Algorithm)
+- [Network](Network)
