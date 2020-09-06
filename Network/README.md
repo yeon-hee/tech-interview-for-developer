@@ -13,7 +13,7 @@ tcp는 1:1 통신으로, 서로의 연결을 3-way handshake로 확인함. 리�
 
 - OSI 7 LAYER
 
-https://user-images.githubusercontent.com/59982366/92331667-36f41700-f0b3-11ea-822e-4595ef50cb88.png
+<img src="https://user-images.githubusercontent.com/59982366/92331667-36f41700-f0b3-11ea-822e-4595ef50cb88.png" width="90%"></img>
 
 <br>
 
