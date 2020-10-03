@@ -21,6 +21,18 @@ FROM EMP, DEPT;
 특정한 조건 없이 두 테이블 조인을 한 경우이다. 조건 없이 조인만 해서는 의미있는 데이터를 얻을 수 없다. 의미 있는 데이터를 얻기 위해 조건을 추가해서 조인을 해보자.
 <br><br>
 
+**INNER Join**
+
+조인하고자 하는 두개의 테이블에서 공통된 요소들을 통해 결합하는 조인방식이다. 즉, 직원들의 이름과 부서명을 같이 출력할때 사용되는 가장 일반적인 조인!
+
+```java
+SELECT EMP.empName, DEPT.deptName
+FROM EMP
+JOIN DEPT
+ON EMP.deptNo = DEPT.deptNo
+```
+<br>
+
 **Self Join**
 
 한 테이블 내에서 조인
