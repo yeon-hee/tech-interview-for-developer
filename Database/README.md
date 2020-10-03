@@ -41,10 +41,10 @@ ON EMP.deptNo = DEPT.deptNo
 사원들의 이름과 함께 그 사원의 매니저 이름도 함께 알고 싶을 경우 셀프조인을 이용한다. 즉, employee 테이블, 자기 자신을 조인
 
 ```java
-SELECT EMP1.empNo, EMP1.empName, EMP1.manager, EMP2.empName
+SELECT EMP1.empNo 사원번호, EMP1.empName 직원이름, EMP1.manager 매니저번호, EMP2.empName 
 FROM EMP EMP1 
 JOIN EMP EMP2
-ON EMP1.empNo = EMP2.manager
+ON EMP1.manager = EMP2.empNo
 ```
 <br>
 
