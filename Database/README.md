@@ -37,7 +37,7 @@ ON EMP1.empNo = EMP2.manager
 
 **Outer Join**
 
-LEFT, RIGHT, FULL 세가지 종류
+- LEFT, RIGHT, FULL 세가지 종류
 
 위의 결과에서는 사실 누락된 데이터가 있다. 해당 데이터들이 누락된 이유는 두 테이블간의 공통된 데이터가 없기 때문이다. 
 예를 들어, '문정진'사원의 DEPTNO가 NULL이기 때문에 DEPT 테이블과 공통된 점이 없으며, '전산부' 또한 EMP 테이블에서 같은 부서 코드를 가진 데이터가 없기 때문에 출력되지 않는다. 하지만! 이러한 데이터들도 함께 보고싶은 경우가 있고 그런 경우 아우터 조인을 사용한다. 
@@ -48,15 +48,14 @@ LEFT, RIGHT, FULL 세가지 종류
 
 **LEFT OUTER JOIN**
 
+이너조인과 달리 '문정진' 사원의 데이터도 함께 나오는 것을 확인할 수 있다.
+
 ```java
 SELECT EMP.empName, DEPT.deptName 
 FROM EMP
 LEFT OUTER JOIN DEPT
 ON EMP.deptNo = DEPT.deptNo
 ```
-
-위의 조인은 이너조인과 달리 '문정진' 사원의 데이터도 함께 나오는 것을 확인할 수 있다. 
-<br>
 <br>
 
 **RIGHT OUTER JOIN**
