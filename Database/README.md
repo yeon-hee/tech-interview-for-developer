@@ -44,6 +44,7 @@ LEFT, RIGHT, FULL 세가지 종류
 
 먼저, 부서 코드가 NULL이거나 부서테이블의 DEPTNO와 일치하는 값이 없는 사원까지 출력하는 LEFT OUTER JOIN을 쿼리로 확인해보자.
 <br>
+<br>
 
 **LEFT OUTER JOIN**
 
@@ -55,6 +56,7 @@ ON EMP.deptNo = DEPT.deptNo
 ```
 
 위의 조인은 이너조인과 달리 '문정진' 사원의 데이터도 함께 나오는 것을 확인할 수 있다. 
+<br>
 <br>
 
 **RIGHT OUTER JOIN**
