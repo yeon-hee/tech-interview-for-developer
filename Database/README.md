@@ -2,10 +2,10 @@
 <br>
 
 - [조인](#조인)
- - [Cross Join](#Cross Join)
- - [INNER Join](#INNER Join)
- - [SELF Join](#SELF Join)
- - [OUTER Join](#OUTER Join)
+  - [Cross Join](#Cross%20Join)
+  - [INNER Join](#INNER%20Join)
+  - [SELF Join](#SELF%20Join)
+  - [OUTER Join](#OUTER%20Join)
 <br>
 
 
