@@ -3,7 +3,7 @@
 
 - [조인](#조인)
 
-  - [Cross Join](#Cross%20Join)
+  - [Cross Join](*Cross%20Join)
   - [INNER Join](#INNER%20Join)
   - [SELF Join](#SELF%20Join)
   - [OUTER Join](#OUTER%20Join)
