@@ -7,11 +7,11 @@
 
 #### 조인
 
-- FROM 절의 JOIN 형태에 따른 분류
+FROM 절의 JOIN 형태에 따른 분류
   
-   - INNER JOIN : JOIN 조건에서 값이 일치하는 행만 반환
-   - OUTER JOIN : JOIN 조건에서 한쪽 값이 없더라도 행을 반환
-   
+- INNER JOIN : JOIN 조건에서 값이 일치하는 행만 반환
+- OUTER JOIN : JOIN 조건에서 한쪽 값이 없더라도 행을 반환
+<br>   
 
 EMP table : 사원번호, 사원이름, 사원직책, 상관번호, 고용일, 월급, 커미션, 부서번호 등의 컬럼으로 구성됨
 
