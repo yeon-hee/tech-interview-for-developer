@@ -3,8 +3,9 @@
 
 #### View Resolver
 뷰 이름으로부터 사용할 뷰 오브젝트를 매핑해줘요.
+<br>
 
-- DispatcherServlet에게 뷰 정보를 전달하는 방법은 두 가지가 있어요
+DispatcherServlet에게 뷰 정보를 전달하는 방법은 두 가지가 있어요
 
 1) View 타입의 오브젝트를 주는 방법
 2) String 타입의 뷰 이름을 주는 방법
