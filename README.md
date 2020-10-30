@@ -11,7 +11,7 @@
   - [데이터베이스](Database)
   - [네트워크](Network)
 - Part 2. Language
-  - [Programming](Programming)
+  - [Java](Programming)
 - Part 3. 분야별 정리
   - [Spring](Spring)
 
