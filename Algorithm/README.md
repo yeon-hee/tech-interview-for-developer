@@ -1,11 +1,18 @@
 ## 📌 Algorithm
 📖 Contents
 
+- [Sorting-Algorithm](#Sorting-Algorithm)
 - [Dijkstra](#Kruskal-MST-알고리즘)
 - [Bellman-Ford](#Bellman-Ford-알고리즘)
 - [Kruskal](#Kruskal-MST-알고리즘)
 
 #
+
+### Sorting-Algorithm
+Sorting 알고리즘은 크게 Comparisons 방식과 Non-Comparisons 방식으로 나눌 수 있다. 
+
+#### Comparisons Sorting Algorithm (비교 방식 알고리즘)
+- <mark style='background-color: #f1f8ff'>Bubble Sort, Selection Sort, Insertion Sort, Merge Sort, Heap Sort, Quick Sort</mark>
 
 ### Bellman-Ford 알고리즘
 
