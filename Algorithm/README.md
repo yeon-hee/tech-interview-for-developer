@@ -13,27 +13,28 @@ Sorting 알고리즘은 크게 Comparisons 방식과 Non-Comparisons 방식으�
 
 #### Comparisons Sorting Algorithm (비교 방식 알고리즘)
 - `Bubble Sort`, `Selection Sort`, `Insertion Sort`, `Merge Sort`, `Heap Sort`, `Quick Sort`
-
+<br>
 
 #### Bubble Sort
 
 | Space Complexity | Time Complexity |
 | :--------------: | :-------------: |
 |       O(1)       |     O(n^2)      |
-
+<br>
 
 #### Selection Sort
 
 | Space Complexity | Time Complexity |
 | :--------------: | :-------------: |
 |       O(1)       |     O(n^2)      |
+<br>
 
 #### Insertion Sort
 
 | Space Complexity | Time Complexity |
 | :--------------: | :-------------: |
 |       O(1)       |     O(n^2)      |
-
+<br>
 
 #### Merge Sort
 
@@ -46,12 +47,14 @@ Sorting 알고리즘은 크게 Comparisons 방식과 Non-Comparisons 방식으�
 | Space Complexity | Time Complexity |
 | :--------------: | :-------------: |
 |       O(n)       |    O(nlogn)     |
+<br>
 
 #### Heap Sort 
 
 | Space Complexity | Time Complexity |
 | :--------------: | :-------------: |
 |       O(1)       |    O(nlogn)     |
+<br>
 
 #### Quick Sort
 
