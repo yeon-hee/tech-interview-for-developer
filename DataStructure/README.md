@@ -4,7 +4,15 @@
 
 * [Array vs Linked List](#array-vs-linked-list)
 * [Stack and Queue](#stack-and-queue)
-
+* [Graph](#graph)
+  * Graph 용어정리
+  * Graph 구현
+  * Graph 탐색
+  * Minimum Spanning Tree
+    * Kruskal algorithm
+    * Prim algorithm
+    
+    
 </br>
 
 ## Array vs Linked List
