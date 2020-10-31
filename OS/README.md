@@ -14,7 +14,6 @@
   * SRT
   * Priority scheduling
   * RR
-* [동기와 비동기의 차이](#동기와-비동기의-차이)
 
   
 </br>
